@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vhon Michael Tabalan</h1>
-<h3 align="center">A passionate Fullstack .NET Developer from the Phillipines</h3>
+<h3 align="center">A passionate Computer Science Student in the Philippines</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on simple Web App using ASP.NET Core<br>🤝 I’m looking for help with frontend<br>🌱 I’m currently learning about the .NET ecosystem
