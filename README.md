@@ -16,12 +16,12 @@
 
 ## 🧠 About Me
 
-I'm Vhon Michael Tabalan — a passionate and practical Computer Science student, currently diving deep into software engineering, systems programming, and high-performance tooling. I'm most comfortable working across the stack, but I find myself at home when working on performance-critical backend systems or crafting desktop tools that push the limits of what's possible.
+I'm Vhon Michael Tabalan — a pragmatic Computer Science student, currently diving deep into software engineering, systems programming, and high-performance tooling. I'm most comfortable working across the stack, but I find myself at home when working on performance-critical backend systems or crafting desktop tools that push the limits of what's possible.
 
 My core interests include:
 - 🧱 Building apps using .NET Core and Avalonia UI
 - 🕹️ Developing games, game engines and simulation systems
-- ⚙️ Writing utilities and developer tools in Rust and Go
+- ⚙️ Writing utilities and developer tools in C, Rust, and Go
 - 🛠️ Working close to the metal with C, and exploring systems design
 
 I'm always looking to push boundaries, simplify complex systems, and learn from like-minded builders. Whether it's an open-source project, a startup idea, or a research opportunity, I'm open to collaboration.
