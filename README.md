@@ -21,8 +21,8 @@ I'm Vhon Michael Tabalan — a pragmatic Computer Science student, currently div
 My core interests include:
 - 🧱 Building apps using .NET Core and Avalonia UI
 - 🕹️ Developing games, game engines and simulation systems
-- ⚙️ Writing utilities and developer tools in C, Rust, and Go
-- 🛠️ Working close to the metal with C, and exploring systems design
+- ⚙️ Writing utilities and developer tools in C, C#, and Go
+- 🛠️ Working close to language with C, and exploring compiler theory
 
 I'm always looking to push boundaries, simplify complex systems, and learn from like-minded builders. Whether it's an open-source project, a startup idea, or a research opportunity, I'm open to collaboration.
 
