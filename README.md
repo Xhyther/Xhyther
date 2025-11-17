@@ -21,7 +21,7 @@ I'm Vhon Michael Tabalan — a pragmatic Computer Science student, currently div
 My core interests include:
 - 🧱 Building apps using .NET Core and Avalonia UI
 - 🕹️ Developing games, game engines and simulation systems
-- ⚙️ Writing utilities and developer tools in C, C#, and Go
+- ⚙️ Writing utilities and developer tools in C, C#, and Rust
 - 🛠️ Working close to language with C, and exploring compiler theory
 
 I'm always looking to push boundaries, simplify complex systems, and learn from like-minded builders. Whether it's an open-source project, a startup idea, or a research opportunity, I'm open to collaboration.
@@ -38,8 +38,6 @@ I'm always looking to push boundaries, simplify complex systems, and learn from 
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="CSharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dotnet logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
   <img width="12" />
