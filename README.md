@@ -81,5 +81,3 @@ I actively participate in **CTF competitions and security challenges** to streng
 
 
 ---
-
-<img align="center" src="https://raw.githubusercontent.com/Xhyther/Xhyther/output/snake.svg" alt="Contribution graph" />
