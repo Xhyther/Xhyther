@@ -1,66 +1,85 @@
-<h1 align="center"> What's Up? I'm Vhon Michael! </h1>
+<h1 align="center">Vhon Michael Tabalan</h1>
+
+<p align="center">
+Computer Science student focused on software engineering, systems programming, and performance-oriented applications.
+</p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vmvt1011/" target="_blank"> 
-     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/vmvt1011/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
- <a href="https://www.instagram.com/kaisensho/">
-     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
- </a>
+  <a href="https://www.instagram.com/kaisensho/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
+  </a>
   <a href="https://discord.com/users/863418991887122491" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord" />
-</a>
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
+  </a>
 </div>
 
-###
+---
 
-## 🧠 About Me
+## About Me
 
-I'm Vhon Michael Tabalan — a pragmatic Computer Science student, currently diving deep into software engineering, systems programming, and high-performance tooling. I'm most comfortable working across the stack, but I find myself at home when working on performance-critical backend systems or crafting desktop tools that push the limits of what's possible.
+I’m a Computer Science student with a strong interest in **backend systems, low-level programming, and developer tooling**.  
+I enjoy working close to the system, understanding how things work under the hood, and building software that is efficient, maintainable, and practical.
 
-My core interests include:
-- 🧱 Building apps using .NET Core and Avalonia UI
-- 🕹️ Developing games, game engines and simulation systems
-- ⚙️ Writing utilities and developer tools in C, C#, and Rust
-- 🛠️ Working close to language with C, and exploring compiler theory
+I’m most comfortable designing and implementing:
+- Backend services and application logic in .NET
+- Performance-critical utilities and tools in C and Rust
+- Desktop applications with clean, functional UI
+- Systems that emphasize correctness, clarity, and long-term maintainability
 
-I'm always looking to push boundaries, simplify complex systems, and learn from like-minded builders. Whether it's an open-source project, a startup idea, or a research opportunity, I'm open to collaboration.
+My long-term goal is to grow into a **systems-oriented software engineer** with strong foundations in operating systems, security, and software architecture.
 
+---
 
-###
+## Technical Focus
 
-## My Tools
+- **Languages:** C, C#, Rust  
+- **Frameworks & Platforms:** .NET (ASP.NET Core), Avalonia UI  
+- **Databases:** MySQL, SQLite, Firebase  
+- **Game / Simulation:** Godot  
+- **Interests:** systems programming, backend architecture, security fundamentals, compiler theory
+
+---
+
+## Security & CTFs
+
+I actively participate in **CTF competitions and security challenges** to strengthen my understanding of:
+- Low-level behavior and memory
+- Reverse engineering and binary analysis
+- Web and application security concepts
+- Practical problem-solving under constraints
+
+---
+
+### Hackathon & Competition Experience
+
+**KadaCareer × Home Credit HackAda AI in UX for Fintech (2025)**  
+- Participated in a team-based hackathon focused on UX, problem-solving, and applied technology in fintech.
+
+**Hack4Gov 2025**
+- Placed **4th Overall (Regionals)** and **10th Individually** in the Hack4Gov 2025 CTF with Team 404Overflow.
+  
+
+---
+
+## Tools & Technologies
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootsrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="C logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="CSharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dotnet logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=godot" height="60" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-    <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="50" />
+  <img src="https://skillicons.dev/icons?i=cs" height="50" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="50" />
+  <img src="https://skillicons.dev/icons?i=rust" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" />
+  <img src="https://skillicons.dev/icons?i=godot" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
 </div>
 
-### 
 
-## My Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xhyther&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xhyther&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-###
-
-<img align="center" src="https://raw.githubusercontent.com/Xhyther/Xhyther/output/snake.svg" alt="Snake animation" />
-
-###
-
+<img align="center" src="https://raw.githubusercontent.com/Xhyther/Xhyther/output/snake.svg" alt="Contribution graph" />
