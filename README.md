@@ -20,7 +20,7 @@ Computer Science student focused on software engineering, systems programming, a
 
 ## About Me
 
-I’m a Computer Science student with a strong interest in **backend systems, low-level programming, and developer tooling**.  
+I’m a pragmatic Computer Science student with a strong interest in **backend systems, low-level programming, and developer tooling**.  
 I enjoy working close to the system, understanding how things work under the hood, and building software that is efficient, maintainable, and practical.
 
 I’m most comfortable designing and implementing:
