@@ -61,7 +61,7 @@ I actively participate in **CTF competitions and security challenges** to streng
 **Hack4Gov 2025**
 - Placed **4th Overall (Regionals)** and **10th Individually** in the Hack4Gov 2025 CTF with Team 404Overflow.
 
-** 𝐔𝐍𝐋𝐄𝐀𝐒𝐇 𝐇𝐀𝐂𝐊 𝐋𝐄𝐆𝐀𝐙𝐏𝐈 𝟐𝟎𝟐𝟔 **
+**𝐔𝐍𝐋𝐄𝐀𝐒𝐇 𝐇𝐀𝐂𝐊 𝐋𝐄𝐆𝐀𝐙𝐏𝐈 𝟐𝟎𝟐𝟔**
 - Participated in a team-based hackathon focused in 𝙀𝙣𝙝𝙖𝙣𝙘𝙞𝙣𝙜 𝘿𝙞𝙨𝙖𝙨𝙩𝙚𝙧 𝙍𝙚𝙨𝙞𝙡𝙞𝙚𝙣𝙘𝙚 𝙞𝙣 𝘾𝙞𝙩𝙞𝙚𝙨 solutions
   
 
